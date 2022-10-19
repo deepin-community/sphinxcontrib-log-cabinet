@@ -1,0 +1,11 @@
+sphinxcontrib-log-cabinet (1.0.1-2) unstable; urgency=medium
+
+  * rebuild, to upload a source-only package
+
+ -- Sandro Tosi <morph@debian.org>  Sun, 13 Sep 2020 19:02:49 -0400
+
+sphinxcontrib-log-cabinet (1.0.1-1) unstable; urgency=low
+
+  * Initial release; Closes: #966005
+
+ -- Sandro Tosi <morph@debian.org>  Wed, 22 Jul 2020 23:38:15 -0400
